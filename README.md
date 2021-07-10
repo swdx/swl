@@ -1,6 +1,6 @@
 # Shortwave Radio Websites
 ## Schedules
-https://swldxbulgaria.blogspot.com/
+<https://swldxbulgaria.blogspot.com/>
 ## Aggregators
 http://radio360.eu/  
 https://www.encompass.tv/world-radio-network/
